@@ -5,13 +5,8 @@
 ## Introduction
 
 Hackster CTF stands as a beacon in the cybersecurity landscape, offering participants a platform to challenge their skills, collaborate, and grow. This initiative is the brainchild of two visionary developers:  
-
-[![TheHackerClown](https://github.com/TheHackerClown.png?size=100)](https://github.com/TheHackerClown)  
 [**TheHackerClown**](https://github.com/TheHackerClown)  
-
-[![Cursorhigh](https://github.com/cursorhigh.png?size=100)](https://github.com/cursorhigh)  
 [**Cursorhigh**](https://github.com/cursorhigh)  
-
 Their combined expertise and dedication have sculpted Hackster CTF into a premier event in the cybersecurity community.
 
 ---
